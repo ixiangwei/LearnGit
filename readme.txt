@@ -1,5 +1,5 @@
-Git is a version control system.
+Git Is a version control system.
 
-Git is fre  software.
+Git Is fre  software.
 
 Git is strong and safe.
