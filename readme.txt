@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 hello i change my git name and email.
 liaoxuefeng teach me Git!
 git merge had a problem..
-I solute the problem in master branch!
+I have solute the conflict in master branch!
